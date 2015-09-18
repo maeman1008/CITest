@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "3de8e565a8716edbd58bb695f0d1fedf"
+inputs: 
+- "/Users/ryoto/Work/CITest/CITestTests/CITestTests.swift"
